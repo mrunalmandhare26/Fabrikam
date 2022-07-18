@@ -1,0 +1,22 @@
+{
+  "name": "fabrikam",
+  "version": "1.0.0",
+  "description": "This repository contains code for END module examination of SDM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrunalmandhare26/Fabrikam.git"
+  },
+  "author": "Mrunal Mandhare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrunalmandhare26/Fabrikam/issues"
+  },
+  "homepage": "https://github.com/mrunalmandhare26/Fabrikam#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
